@@ -6,7 +6,9 @@
 - 💬 Ask me about <strong>Python, Java , Data Structures </strong>
 - 🌱 I’m currently learning <strong>Data Science and Machine Learning in Python </strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/eswar-chand-868b5617b/" target="_blank">Eswar Chand</a>
-
+- -💻 I love programming.
+- 🎥 I love to watch movies and series especially <a href="https://www.marvel.com/movies" target="_blank">Marvel Movies/Series</a>.⚽
+- 🏏 I love to play and watch Cricket
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kushalvijay/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
