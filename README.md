@@ -5,7 +5,7 @@
 - 🔭 I’m currently Studying in Sathyabama University <a href="https://www.sathyabama.ac.in/" target="_blank">Sathyabama University</a>
 - 💬 Ask me about <strong>Python, Java , Data Structures </strong>
 - 🌱 I’m currently learning <strong>Data Science and Machine Learning in Python </strong>
-- 📫 How to reach me: <a " https://www.linkedin.com/in/eswar-chand-868b5617b/" target="_blank">Eswar Chand</a>
+- 📫 How to reach me: <a href=" https://www.linkedin.com/in/eswar-chand-868b5617b/" target="_blank">Eswar Chand</a>
 
 
 <p align="center">
