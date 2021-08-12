@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there, I am Eswar Chand 👋</h1>
+<h1 align="left">Hi there, I am Eswar Chand 👋</h1>
 
 - 🔭 I’m currently Studying in Sathyabama University <a href="https://www.sathyabama.ac.in/" target="_blank">Sathyabama University</a>
 - 💬 Ask me about <strong>Python, Java , Data Structures </strong>
