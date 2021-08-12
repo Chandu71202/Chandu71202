@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi there, I am Eswar Chand 👋</h1>
 
-- 🔭 I’m currently Studying in Sathyabama University <a href="https://www.sathyabama.ac.in/" target="_blank">Sathyabama University</a>
+- 🔭 I’m currently Studying in <a href="https://www.sathyabama.ac.in/" target="_blank">Sathyabama University</a>
 - 💬 Ask me about <strong>Python, Java , Data Structures </strong>
 - 🌱 I’m currently learning <strong>Data Science and Machine Learning in Python </strong>
 - 📫 How to reach me: **chandu71202@gmail.com**
