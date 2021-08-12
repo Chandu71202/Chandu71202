@@ -1,6 +1,6 @@
 
 
-<hi align="center">Hi there, I am Eswar Chand 👋</h1>
+<h1 align="center">Hi there, I am Eswar Chand 👋</h1>
 
 - 🔭 I’m currently Studying in Sathyabama University <a href="https://www.sathyabama.ac.in/" target="_blank">Sathyabama University</a>
 - 💬 Ask me about <strong>Python, Java , Data Structures </strong>
@@ -15,7 +15,7 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/chand71202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandu_71202" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/eswar-chand-868b5617b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="EswarChand" height="30" width="40" /></a>
