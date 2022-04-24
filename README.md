@@ -50,7 +50,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>&nbsp;
-<img src="https://image.flaticon.com/icons/png/512/2103/2103694.png" alt="R" width="40" height="40"/>&nbsp;
+<img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" alt="matlab" height="40" width="50"/>&nbsp;
 </div>
 
